@@ -4,7 +4,7 @@
 ### Member
 Clovis Masson - id: 15129002
 
-# snakeBJTU
+# snakeBJTU (iOS)
 
 ## 1. Goal
 
@@ -21,3 +21,4 @@ Clovis Masson - id: 15129002
 ## 4. GameWorld
 
 - The game will be set in a 2D World, with a fix camera set on the top of the map.
+- iOS Game (XCode required to test).
